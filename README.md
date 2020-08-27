@@ -3,7 +3,15 @@ Random Number Printer
 
 # How to use: 
 1. Download the file 
-2. Run the command with or without parameters: 
+```
+git clone https://github.com/batuhanakca/numwrite.git
+```
+2. Give the execute permission to the script
+```
+$ cd numwrite
+$ chmod a+x numWriter.py
+```
+3. Run the command with or without parameters: 
 ```
 ./numWriter.py --help
 usage: 
