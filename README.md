@@ -11,7 +11,7 @@ git clone https://github.com/batuhanakca/numwrite.git
 $ cd numwrite
 $ chmod a+x numWriter.py
 ```
-3. Run the command with or without parameters: 
+3. Run the script with or without parameters: 
 ```
 ./numWriter.py --help
 usage: 
